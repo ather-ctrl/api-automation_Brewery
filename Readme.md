@@ -24,7 +24,8 @@ The API was selected from the Public APIs repository:
 * HTML Test Reporting
 * Scalable Project Structure
 
----
+## Test Execution Demo
+![TestExecutionDemo](https://github.com/ather-ctrl/api-automation_Brewery/blob/65df05b1a957b60e877510a467f7dd0a5d5016d4/APItestrun.gif)
 
 ## Project Structure
 
@@ -69,9 +70,6 @@ pytest -k "city" -v
 ```
 
 ---
-
-## Test Execution Demo
-![TestExecutionDemo](https://github.com/ather-ctrl/api-automation_Brewery/blob/65df05b1a957b60e877510a467f7dd0a5d5016d4/APItestrun.gif)
 
 
 ---
